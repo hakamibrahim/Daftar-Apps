@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Login Apps</string>
+    <string name="konfirmasi_data">Konfirmasi Data</string>
+    <string name="daftar">Daftar</string>
+    <string name="name">Name</string>
+    <string name="user_name">User Name</string>
+    <string name="address">Address</string>
+    <string name="email">Email</string>
+    <string name="phone">Phone</string>
+    <string name="save">Save</string>
+    <string name="lanjut">Ya, Lanjut!</string>
+    <string name="back">Kembali</string>
+    <string-array name="jenis_kelamin">
+        Laki - laki
+        Perempuan
+    </string-array>
+</resources>
