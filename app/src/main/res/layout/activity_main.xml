@@ -112,6 +112,7 @@
         android:layout_height="wrap_content"
         android:layout_margin="16dp"
         android:background="@color/colorPrimary"
-        android:text="Simpan"
+        android:text="@string/register"
+        android:textAllCaps="false"
         android:textColor="#ffff" />
 </LinearLayout>

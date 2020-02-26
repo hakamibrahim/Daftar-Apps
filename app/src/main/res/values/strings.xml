@@ -9,7 +9,7 @@
     <string name="phone">Phone</string>
     <string name="save">Save</string>
     <string name="lanjut">Ya, Lanjut!</string>
-    <string name="back">Kembali</string>
+    <string name="register">Register</string>
     <string-array name="jenis_kelamin">
         Laki - laki
         Perempuan
