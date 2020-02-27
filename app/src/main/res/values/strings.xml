@@ -14,4 +14,8 @@
         Laki - laki
         Perempuan
     </string-array>
+    <string name="back">Kembali</string>
+    <string name="login">Login</string>
+    <string name="question">Sudah punya akun?</string>
+    <string name="daftar_disini">Register</string>
 </resources>
